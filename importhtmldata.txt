@@ -1,0 +1,1003 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- saved from url=(0092)http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Daily.aspx -->
+<html __expr-val-dir="ltr" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta http-equiv="Expires" content="0"><title>
+	
+	SIMEE - 
+	Daily
+
+</title><link rel="SHORTCUT ICON" href="http://www.mercado.ren.pt/Style%20Library/Images/favicon.ico"><link rel="stylesheet" type="text/css" href="./SIMEE - Daily_files/gnPageLayouts.css">
+<link rel="stylesheet" type="text/css" href="./SIMEE - Daily_files/HtmlEditorCustomStyles.css">
+<link rel="stylesheet" type="text/css" href="./SIMEE - Daily_files/HtmlEditorTableFormats.css">
+<link rel="stylesheet" type="text/css" href="./SIMEE - Daily_files/core.css">
+<link rel="stylesheet" type="text/css" href="./SIMEE - Daily_files/gmREN.css">
+
+    <!--Styles used for positioning, font and spacing definitions-->
+    <script type="text/javascript" async="" src="./SIMEE - Daily_files/ga.js.pobrane"></script><script src="./SIMEE - Daily_files/init.js.pobrane"></script>
+<script type="text/javascript" language="javascript" src="./SIMEE - Daily_files/non_ie.js.pobrane"></script>
+
+    <!--Placeholder for additional overrides-->
+    
+	<style type="text/css">
+		.ms-pagetitleareaframe table, .ms-titleareaframe
+		{
+			background: none;
+			height: 10px;
+			overflow:hidden;
+		}
+		.ms-pagetitle, .ms-titlearea
+		{
+			display:none;
+		}
+	</style>
+	
+<link rel="stylesheet" type="text/css" href="./SIMEE - Daily_files/gmREN_Electricidade.css"><link rel="stylesheet" type="text/css" href="./SIMEE - Daily_files/gmControls_Electricidade.css"><link rel="stylesheet" media="screen" href="./SIMEE - Daily_files/superfish_electricidade.css"><link rel="stylesheet" media="screen" href="./SIMEE - Daily_files/superfish-navbar_electricidade.css">
+    <style type="text/css">
+        img
+        {
+            border: transparent;
+        }
+        .breadcrumb
+        {
+            margin-left: 0px !important;
+        }
+        .mainContainer
+        {
+            margin: auto !important;
+            min-height: 582px;
+        }
+        html
+        {
+            overflow-x: hidden;
+        }
+    </style>
+<style type="text/css">
+	.zz1_logoLinkId_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.zz1_logoLinkId_1 { text-decoration:none; }
+	.zz1_logoLinkId_2 {  }
+	.zz2_GlobalNav_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.zz2_GlobalNav_1 { text-decoration:none; }
+	.zz2_GlobalNav_2 {  }
+	.zz2_GlobalNav_3 { border-style:none; }
+	.zz2_GlobalNav_4 {  }
+	.zz2_GlobalNav_5 { border-style:none; }
+	.zz2_GlobalNav_6 {  }
+	.zz2_GlobalNav_7 {  }
+	.zz2_GlobalNav_8 { border-style:none; }
+	.zz2_GlobalNav_9 {  }
+	.zz2_GlobalNav_10 { border-style:none; }
+	.zz2_GlobalNav_11 {  }
+	.zz2_GlobalNav_12 { border-style:none; }
+	.zz2_GlobalNav_13 {  }
+	.zz3_CurrentNav_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.zz3_CurrentNav_1 { text-decoration:none; }
+	.zz3_CurrentNav_2 {  }
+	.zz3_CurrentNav_3 { border-style:none; }
+	.zz3_CurrentNav_4 {  }
+	.zz3_CurrentNav_5 {  }
+	.zz3_CurrentNav_6 { border-style:none; }
+	.zz3_CurrentNav_7 {  }
+	.zz3_CurrentNav_8 { border-style:none; }
+	.zz3_CurrentNav_9 {  }
+	.zz3_CurrentNav_10 { border-style:none; }
+	.zz3_CurrentNav_11 {  }
+	.zz3_CurrentNav_12 { border-style:none; }
+	.zz3_CurrentNav_13 {  }
+	.zz3_CurrentNav_14 { border-style:none; }
+	.zz3_CurrentNav_15 {  }
+	.zz3_CurrentNav_16 { border-style:none; }
+	.zz3_CurrentNav_17 {  }
+	.ctl00_PlaceHolderMain_TopColumnZone_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_NavigationMenu_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_NavigationMenu_1 { text-decoration:none; }
+	.ctl00_NavigationMenu_2 {  }
+	.ctl00_NavigationMenu_3 { border-style:none; }
+	.ctl00_NavigationMenu_4 {  }
+	.ctl00_NavigationMenu_5 { border-style:none; }
+	.ctl00_NavigationMenu_6 {  }
+
+</style></head>
+<body class="body" onload="javascript:_spBodyOnLoadWrapper();"><div id="StayFocusd-infobar" style="display: none; top: 0px;">
+    <img src="chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/common/img/eye_19x19_red.png">
+    <span id="StayFocusd-infobar-msg"></span>
+    <span id="StayFocusd-infobar-links">
+        <a id="StayFocusd-infobar-never-show">hide forever</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a id="StayFocusd-infobar-hide">hide once</a>
+    </span>
+</div>
+    
+    <form name="aspnetForm" method="post" action="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Daily.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xB82564B1B07DED13DEB9B07406B7E66AAFA14513DA5C7C446F79B23F4F28D1CAEB433404061320EF6CC068F35C1140CF524CC2A361EFD54F521761C1802B89AE,22 Jan 2017 10:54:22 -0000">
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBgIBD2QWAgIFD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgMPZBYCBSZnXzg3ZDZjZTQ1X2Y0YWFfNGUxMV85YmNjXzA1ZDRhNDFlYTYwZA9kFgICAQ9kFgICAQ88KwANAQAPFgIeC18hSXRlbUNvdW50AhhkZAIFD2QWEAIDD2QWBgIBD2QWAgIBDxYCHgdWaXNpYmxlaBYCZg9kFgQCAg9kFgICAw8WAh8CaGQCAw8PFgIeCUFjY2Vzc0tleQUBL2RkAgMPZBYCAgIPDxYCHwJnFgIeBXN0eWxlBQ5kaXNwbGF5OmJsb2NrO2QCBQ9kFgICAw9kFgICAQ8PFgIfAmdkFgQCAQ8PFgIfAmhkFhwCAQ8PFgIfAmhkZAIDDxYCHwJoZAIFDw8WAh8CaGRkAgcPFgIfAmhkAgkPDxYCHwJoZGQCCw8PFgIfAmhkZAINDw8WAh8CaGRkAg8PDxYEHgdFbmFibGVkaB8CaGRkAhEPDxYCHwJoZGQCEw8PFgQfBWgfAmhkZAIVDw8WAh8CaGRkAhcPFgIfAmhkAhkPFgIfAmhkAhsPDxYCHwJnZGQCAw8PFgIfAmdkFgYCAQ8PFgIfAmdkZAIDDw8WAh8CZ2RkAgUPDxYCHwJnZGQCBw9kFgICAQ9kFgJmDw9kFgIeBWNsYXNzBRhtcy1zYnRhYmxlIG1zLXNidGFibGUtZXhkAgkPPCsADQIADxYGHgtfIURhdGFCb3VuZGceFFN0YXRpY1BvcE91dEltYWdlVXJsBSQvX2xheW91dHMvaW1hZ2VzL2xhcmdlYXJyb3dyaWdodC5naWYeFUR5bmFtaWNQb3BPdXRJbWFnZVVybAUkL19sYXlvdXRzL2ltYWdlcy9sYXJnZWFycm93cmlnaHQuZ2lmZAwUKwACBQMwOjAUKwACFhAeBFRleHQFLlNpc3RlbWEgZGUgSW5mb3JtYcOnw6NvIGRlIE1lcmNhZG9zIGRlIEVuZXJnaWEeBVZhbHVlBS5TaXN0ZW1hIGRlIEluZm9ybWHDp8OjbyBkZSBNZXJjYWRvcyBkZSBFbmVyZ2lhHgtOYXZpZ2F0ZVVybAUVL1BhZ2luYXMvZGVmYXVsdC5hc3B4HwVnHgpTZWxlY3RhYmxlZx4IRGF0YVBhdGgFAS8eCURhdGFCb3VuZGceCFNlbGVjdGVkZ2RkAg0PZBYCZg8PFgQfB2cfAmhkZAIPDzwrAA0CAA8WAh8HZ2QMFCsABAULMDowLDA6MSwwOjIUKwACFg4fCgUHSW7DrWNpbx8LBQdJbsOtY2lvHwwFFS9QYWdpbmFzL2RlZmF1bHQuYXNweB8FZx8NZx8OBRUvUGFnaW5hcy9kZWZhdWx0LmFzcHgfD2dkFCsAAhYOHwoFClBvcnR1Z3XDqnMfCwUKUG9ydHVndcOqcx8MBRgvUFQvUGFnaW5hcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUDL1BUHw9nFCsABAULMDowLDA6MSwwOjIUKwACFg4fCgUMRWxldHJpY2lkYWRlHwsFDEVsZXRyaWNpZGFkZR8MBR8vUFQvRUxFQ1RSL1BhZ2luYXMvZGVmYXVsdC5hc3B4HwVnHw1nHw4FCi9QVC9FTEVDVFIfD2cUKwAFBQ8wOjAsMDoxLDA6MiwwOjMUKwACFg4fCgUXSW5mb3JtYcOnw6NvIGRlIE1lcmNhZG8fCwUXSW5mb3JtYcOnw6NvIGRlIE1lcmNhZG8fDAUrL1BUL0VMRUNUUi9JTkZPTUVSQ0FETy9QYWdpbmFzL2RlZmF1bHQuYXNweB8FZx8NZx8OBRYvUFQvRUxFQ1RSL0lORk9NRVJDQURPHw9nZBQrAAIWDh8KBRZBdGl2aWRhZGVzIGUgU2VydmnDp29zHwsFFkF0aXZpZGFkZXMgZSBTZXJ2acOnb3MfDAUnL1BUL0VsZWN0ci9BY3RTZXJ2L1BhZ2luYXMvZGVmYXVsdC5hc3B4HwVnHw1nHw4FEi9QVC9FbGVjdHIvQWN0U2Vydh8PZ2QUKwACFg4fCgUXUHJvamV0b3MgSW50ZXJuYWNpb25haXMfCwUXUHJvamV0b3MgSW50ZXJuYWNpb25haXMfDAUpL1BUL0VsZWN0ci9Qcm9qSW50ZXIvUGFnaW5hcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUUL1BUL0VsZWN0ci9Qcm9qSW50ZXIfD2dkFCsAAhYOHwoFDUNvbXVuaWNhw6fDo28fCwUNQ29tdW5pY2HDp8Ojbx8MBSsvUFQvRWxlY3RyL0NvbXVuaWNhY2FvL1BhZ2luYXMvZGVmYXVsdC5hc3B4HwVnHw1nHw4FFi9QVC9FbGVjdHIvQ29tdW5pY2FjYW8fD2dkFCsAAhYOHwoFBEfDoXMfCwUER8Ohcx8MBRwvUFQvR2FzL1BhZ2luYXMvZGVmYXVsdC5hc3B4HwVnHw1nHw4FBy9QVC9HYXMfD2cUKwAFBQ8wOjAsMDoxLDA6MiwwOjMUKwACFg4fCgUXSW5mb3JtYcOnw6NvIGRlIE1lcmNhZG8fCwUXSW5mb3JtYcOnw6NvIGRlIE1lcmNhZG8fDAUoL1BUL0dhcy9JbmZvTWVyY2Fkby9QYWdpbmFzL2RlZmF1bHQuYXNweB8FZx8NZx8OBRMvUFQvR2FzL0luZm9NZXJjYWRvHw9nZBQrAAIWDh8KBRZBdGl2aWRhZGVzIGUgU2VydmnDp29zHwsFFkF0aXZpZGFkZXMgZSBTZXJ2acOnb3MfDAUoL1BUL0dhcy9BY3RTZXJ2aWNvcy9QYWdpbmFzL2RlZmF1bHQuYXNweB8FZx8NZx8OBRMvUFQvR2FzL0FjdFNlcnZpY29zHw9nZBQrAAIWDh8KBRdQcm9qZXRvcyBJbnRlcm5hY2lvbmFpcx8LBRdQcm9qZXRvcyBJbnRlcm5hY2lvbmFpcx8MBScvUFQvR2FzL1Byb2pJbnRlcm4vUGFnaW5hcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUSL1BUL0dhcy9Qcm9qSW50ZXJuHw9nZBQrAAIWDh8KBQ1Db211bmljYcOnw6NvHwsFDUNvbXVuaWNhw6fDo28fDAUoL1BUL0dhcy9Db211bmljYWNhby9QYWdpbmFzL2RlZmF1bHQuYXNweB8FZx8NZx8OBRMvUFQvR2FzL0NvbXVuaWNhY2FvHw9nZBQrAAIWDh8KBRNQZXLDrW9kb3MgSG9yw6FyaW9zHwsFE1BlcsOtb2RvcyBIb3LDoXJpb3MfDAUhL1BUL1BhZ2luYXMvUGVyaW9kb3NIb3Jhcmlvcy5hc3B4HwVnHw1nHw4FIS9QVC9QYWdpbmFzL1BlcmlvZG9zSG9yYXJpb3MuYXNweB8PZ2QUKwACFhAfCgUHRW5nbGlzaB8LBQdFbmdsaXNoHwwFFi9FTi9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUDL0VOHw9nHxBnFCsABAULMDowLDA6MSwwOjIUKwACFg4fCgULRWxlY3RyaWNpdHkfCwULRWxlY3RyaWNpdHkfDAUdL0VOL0VMRUNUUi9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUKL0VOL0VMRUNUUh8PZxQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWDh8KBRJNYXJrZXQgSW5mb3JtYXRpb24fCwUSTWFya2V0IEluZm9ybWF0aW9uHwwFKC9FTi9FTEVDVFIvTUFSS0VUSU5GTy9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUVL0VOL0VMRUNUUi9NQVJLRVRJTkZPHw9nZBQrAAIWDh8KBRdBY3Rpdml0aWVzIGFuZCBTZXJ2aWNlcx8LBRdBY3Rpdml0aWVzIGFuZCBTZXJ2aWNlcx8MBTAvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUdL0VOL0VsZWN0ci9BY3Rpdml0aWVzU2VydmljZXMfD2dkFCsAAhYOHwoFFkludGVybmF0aW9uYWwgUHJvamVjdHMfCwUWSW50ZXJuYXRpb25hbCBQcm9qZWN0cx8MBScvRU4vRWxlY3RyL0ludGVyUHJvai9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUUL0VOL0VsZWN0ci9JbnRlclByb2ofD2dkFCsAAhYOHwoFDUNvbW11bmljYXRpb24fCwUNQ29tbXVuaWNhdGlvbh8MBSsvRU4vRWxlY3RyL0NvbW11bmljYXRpb24vUGFnZXMvZGVmYXVsdC5hc3B4HwVnHw1nHw4FGC9FTi9FbGVjdHIvQ29tbXVuaWNhdGlvbh8PZ2QUKwACFg4fCgULTmF0dXJhbCBHYXMfCwULTmF0dXJhbCBHYXMfDAUaL0VOL0dhcy9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUHL0VOL0dhcx8PZxQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWDh8KBRJNYXJrZXQgSW5mb3JtYXRpb24fCwUSTWFya2V0IEluZm9ybWF0aW9uHwwFJS9FTi9HYXMvTWFya2V0SW5mby9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUSL0VOL0dhcy9NYXJrZXRJbmZvHw9nZBQrAAIWDh8KBRdBY3Rpdml0aWVzIGFuZCBTZXJ2aWNlcx8LBRdBY3Rpdml0aWVzIGFuZCBTZXJ2aWNlcx8MBSYvRU4vR2FzL0FjdFNlcnZpY2VzL1BhZ2VzL2RlZmF1bHQuYXNweB8FZx8NZx8OBRMvRU4vR2FzL0FjdFNlcnZpY2VzHw9nZBQrAAIWDh8KBRZJbnRlcm5hdGlvbmFsIFByb2plY3RzHwsFFkludGVybmF0aW9uYWwgUHJvamVjdHMfDAUkL0VOL0dhcy9JbnRlclByb2ovUGFnZXMvZGVmYXVsdC5hc3B4HwVnHw1nHw4FES9FTi9HYXMvSW50ZXJQcm9qHw9nZBQrAAIWDh8KBQ1Db21tdW5pY2F0aW9uHwsFDUNvbW11bmljYXRpb24fDAUoL0VOL0dhcy9Db21tdW5pY2F0aW9uL1BhZ2VzL2RlZmF1bHQuYXNweB8FZx8NZx8OBRUvRU4vR2FzL0NvbW11bmljYXRpb24fD2dkFCsAAhYOHwoFDFRpbWUgUGVyaW9kcx8LBQxUaW1lIFBlcmlvZHMfDAUaL0VOL1BhZ2VzL1RpbWVQZXJpb2RzLmFzcHgfBWcfDWcfDgUaL0VOL1BhZ2VzL1RpbWVQZXJpb2RzLmFzcHgfD2dkZAIRD2QWAgIBDxYCHwoFhmo8dWwgY2xhc3M9J21lbnUnIGlkPSd0b3AtbWVudSc+PGRpdiBjbGFzcz0nZGl2LW1lbnUnPjxsaSBjbGFzcz0nY3VycmVudCc+PGEgY2xhc3M9J3NmLXdpdGgtdWwnIGhyZWY9Jy9FTi9FTEVDVFIvTUFSS0VUSU5GTy9QYWdlcy9kZWZhdWx0LmFzcHgnPk1hcmtldCBJbmZvcm1hdGlvbjwvYT48dWwgY2xhc3M9J25pdmVsMlVMJz48bGkgY2xhc3M9J25pdmVsMkxJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vU3RydWN0dXJhbEluZm8vUGFnZXMvZGVmYXVsdC5hc3B4Jz5TdHJ1Y3R1cmFsIEluZm9ybWF0aW9uPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9TdHJ1Y3R1cmFsSW5mby9QYWdlcy9NYXJrZXRBZ2VudHMuYXNweCc+TWFya2V0IEFnZW50czwvYT48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9TdHJ1Y3R1cmFsSW5mby9NYXJrZXRVbml0cy9QYWdlcy9kZWZhdWx0LmFzcHgnPk1hcmtldCBVbml0czwvYT48dWwgY2xhc3M9J25pdmVsNFVMJz48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vU3RydWN0dXJhbEluZm8vTWFya2V0VW5pdHMvUGFnZXMvUHJvZ3JVbml0cy5hc3B4Jz5Qcm9ncmFtbWluZyBVbml0czwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vU3RydWN0dXJhbEluZm8vTWFya2V0VW5pdHMvUGFnZXMvQmFsYW5jZUFyZWFzLmFzcHgnPkJhbGFuY2UgQXJlYXM8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL1N0cnVjdHVyYWxJbmZvL01hcmtldFVuaXRzL1BhZ2VzL1Byb2R1Y3Rpb25Vbml0cy5hc3B4Jz5QaHlzaWNhbCBVbml0czwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vU3RydWN0dXJhbEluZm8vTWFya2V0VW5pdHMvUGFnZXMvR2VuZXJhdGlvblVuaXRzLmFzcHgnPkdlbmVyYXRpb24gVW5pdHM8L2E+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9TdHJ1Y3R1cmFsSW5mby9FSUMvUGFnZXMvZGVmYXVsdC5hc3B4Jz5FSUMgQ29kZXM8L2E+PHVsIGNsYXNzPSduaXZlbDRVTCc+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL1N0cnVjdHVyYWxJbmZvL0VJQy9QYWdlcy9TdHJ1Y3R1cmUuYXNweCc+Q29kZSBTdHJ1Y3R1cmU8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL1N0cnVjdHVyYWxJbmZvL0VJQy9QYWdlcy9BZG1pbmlzdHJhdGlvbi5hc3B4Jz5NYW5hZ2VtZW50PC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9TdHJ1Y3R1cmFsSW5mby9FSUMvUGFnZXMvTG9jYWxDb2Rlcy5hc3B4Jz5Db2RlIExpc3QgLSBMSU8gUkVOPC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9TdHJ1Y3R1cmFsSW5mby9FSUMvUGFnZXMvRkFRLmFzcHgnPkZBUTwvYT48L3VsPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwyTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1BhZ2VzL2RlZmF1bHQuYXNweCc+TWFya2V0IFJlc3VsdHM8L2E+PHVsIGNsYXNzPSduaXZlbDNVTCc+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvT01JRS9QYWdlcy9kZWZhdWx0LmFzcHgnPk1JQkVMPC9hPjx1bCBjbGFzcz0nbml2ZWw0VUwnPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL09NSUUvUGFnZXMvUHJpY2VzLmFzcHgnPlByaWNlczwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vTWFya2V0UmVzdWx0cy9PTUlFL1BhZ2VzL0VuZXJneS5hc3B4Jz5FbmVyZ3k8L2E+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL0JpZHMvUGFnZXMvZGVmYXVsdC5hc3B4Jz5CaWRzPC9hPjx1bCBjbGFzcz0nbml2ZWw0VUwnPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL0JpZHMvUGFnZXMvVGVjQ29uc3RyYWludHMuYXNweCc+VGVjaG5pY2FsIENvbnN0cmFpbnRzPC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL0JpZHMvUGFnZXMvU2Vjb25kYXJ5UmVzZXJ2ZS5hc3B4Jz5TZWNvbmRhcnkgUmVzZXJ2ZTwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vTWFya2V0UmVzdWx0cy9CaWRzL1BhZ2VzL1JlZ3VsYXRpbmdSZXNlcnZlLmFzcHgnPlJlZ3VsYXRpbmcgUmVzZXJ2ZTwvYT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvU2VjUmVzZXJ2ZUFsbG9jYXRpb24vUGFnZXMvZGVmYXVsdC5hc3B4Jz5TZWNvbmRhcnkgUmVzZXJ2ZTwvYT48dWwgY2xhc3M9J25pdmVsNFVMJz48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vTWFya2V0UmVzdWx0cy9TZWNSZXNlcnZlQWxsb2NhdGlvbi9QYWdlcy9BbGxvY2F0aW9uLmFzcHgnPkFsbG9jYXRpb248L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvU2VjUmVzZXJ2ZUFsbG9jYXRpb24vUGFnZXMvUHJpY2UuYXNweCc+UHJpY2U8L2E+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1NjaGVkdWxlcy9QYWdlcy9kZWZhdWx0LmFzcHgnPlNjaGVkdWxlczwvYT48dWwgY2xhc3M9J25pdmVsNFVMJz48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vTWFya2V0UmVzdWx0cy9TY2hlZHVsZXMvUGFnZXMvUERCRi5hc3B4Jz5QREJGPC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1NjaGVkdWxlcy9QYWdlcy9QRFZQLmFzcHgnPlBEVlA8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvU2NoZWR1bGVzL1BhZ2VzL1BIRi5hc3B4Jz5QSEY8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvU2NoZWR1bGVzL1BhZ2VzL1BIT0YuYXNweCc+UEhPRjwvYT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvUmVzZXJ2ZUVuZXJneS9QYWdlcy9kZWZhdWx0LmFzcHgnPlJlc2VydmUgRW5lcmd5PC9hPjx1bCBjbGFzcz0nbml2ZWw0VUwnPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1Jlc2VydmVFbmVyZ3kvUGFnZXMvU2VjUmVzZXJ2ZS5hc3B4Jz5TZWNvbmRhcnkgUmVzZXJ2ZTwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vTWFya2V0UmVzdWx0cy9SZXNlcnZlRW5lcmd5L1BhZ2VzL1JlZ1Jlc2VydmUuYXNweCc+UmVndWxhdGluZyBSZXNlcnZlPC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1Jlc2VydmVFbmVyZ3kvUGFnZXMvUHJpY2UuYXNweCc+UHJpY2U8L2E+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1RlY2hDb25zdHJhaW50cy9QYWdlcy9kZWZhdWx0LmFzcHgnPlRlY2huaWNhbCBDb25zdHJhaW50czwvYT48dWwgY2xhc3M9J25pdmVsNFVMJz48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vTWFya2V0UmVzdWx0cy9UZWNoQ29uc3RyYWludHMvUGFnZXMvRGF5QWhlYWRFbmVyZ3kuYXNweCc+RGF5IEFoZWFkIC0gRW5lcmd5PC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1RlY2hDb25zdHJhaW50cy9QYWdlcy9EYXlBaGVhZENvc3QuYXNweCc+RGF5IEFoZWFkIC0gQ29zdDwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vTWFya2V0UmVzdWx0cy9UZWNoQ29uc3RyYWludHMvUGFnZXMvUmVhbFRpbWVFbmVyZ3kuYXNweCc+UmVhbCBUaW1lIC0gRW5lcmd5PC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL1RlY2hDb25zdHJhaW50cy9QYWdlcy9SZWFsVGltZUNvc3QuYXNweCc+UmVhbCBUaW1lIC0gQ29zdDwvYT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvSW1iYWxhbmNlcy9QYWdlcy9kZWZhdWx0LmFzcHgnPkltYmFsYW5jZXM8L2E+PHVsIGNsYXNzPSduaXZlbDRVTCc+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvSW1iYWxhbmNlcy9QYWdlcy9JbWJhbGFuY2VzQWdlbnQuYXNweCc+SW1iYWxhbmNlcyBwZXIgQWdlbnQ8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL01hcmtldFJlc3VsdHMvSW1iYWxhbmNlcy9QYWdlcy9JbWJhbGFuY2VzVW5pdC5hc3B4Jz5JbWJhbGFuY2VzIHBlciBVbml0PC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL0ltYmFsYW5jZXMvUGFnZXMvQ29zdHMuYXNweCc+Q29zdHM8L2E+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9NYXJrZXRSZXN1bHRzL0NCQmFsYW5jaW5nL1BhZ2VzL2RlZmF1bHQuYXNweCc+Q3Jvc3MgQm9yZGVyIEJhbGFuY2luZzwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2N1cnJlbnQnPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL1BhZ2VzL2RlZmF1bHQuYXNweCc+SW50ZXJjb25uZWN0aW9uczwvYT48dWwgY2xhc3M9J25pdmVsM1VMJz48bGkgY2xhc3M9J2N1cnJlbnQnPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcEZvcmVjYXN0L1BhZ2VzL2RlZmF1bHQuYXNweCc+Q2FwYWNpdHkgRm9yZWNhc3Q8L2E+PHVsIGNsYXNzPSduaXZlbDRVTCc+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwRm9yZWNhc3QvUGFnZXMvQW5udWFsbHkuYXNweCc+QW5udWFsbHk8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwRm9yZWNhc3QvUGFnZXMvTW9udGhseS5hc3B4Jz5Nb250aGx5PC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcEZvcmVjYXN0L1BhZ2VzL1dlZWtseS5hc3B4Jz5XZWVrbHk8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwRm9yZWNhc3QvUGFnZXMvRGFpbHkuYXNweCc+RGFpbHk8L2E+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcFByb2cvUGFnZXMvZGVmYXVsdC5hc3B4Jz5DYXBhY2l0eSAmYW1wOyBTY2hlZHVsZXM8L2E+PHVsIGNsYXNzPSduaXZlbDRVTCc+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwUHJvZy9QYWdlcy9Na3RTZXNzaW9uLmFzcHgnPk1hcmtldCBTZXNzaW9uPC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcFByb2cvUGFnZXMvQ29tU2NoZWR1bGVzLmFzcHgnPkZpbmFsPC9hPjwvdWw+PC9saT48bGkgY2xhc3M9J25pdmVsM0xJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9QYWdlcy9Db3VudGVyVHJhZGluZy5hc3B4Jz5Db3VudGVydHJhZGluZzwvYT48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0F1Y3Rpb25zL1BhZ2VzL01haW4yLmFzcHgnPkV4cGxpY2l0IEF1Y3Rpb25zPC9hPjx1bCBjbGFzcz0nbml2ZWw0VUwnPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0F1Y3Rpb25zL1BhZ2VzL2RlZmF1bHQuYXNweCc+U3BlY2lmaWNhdGlvbnM8L2E+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQXVjdGlvbnMvUGFnZXMvUmVzdWx0cy5hc3B4Jz5SZXN1bHRzPC9hPjwvdWw+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VMRUNUUi9NQVJLRVRJTkZPL1VOQVZBSUxBQklMSVRJRVMvUGFnZXMvZGVmYXVsdC5hc3B4Jz5VbmF2YWlsYWJpbGl0aWVzPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9VbmF2YWlsYWJpbGl0aWVzL1Byb2RVbml0cy9QYWdlcy9kZWZhdWx0LmFzcHgnPkdlbmVyYXRpb24gVW5pdHM8L2E+PHVsIGNsYXNzPSduaXZlbDRVTCc+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL1VuYXZhaWxhYmlsaXRpZXMvUHJvZFVuaXRzL1BhZ2VzL1BsYW5uZWQuYXNweCc+UGxhbm5lZDwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRUxFQ1RSL01BUktFVElORk8vVU5BVkFJTEFCSUxJVElFUy9QUk9EVU5JVFMvUGFnZXMvQWN0dWFsLmFzcHgnPkFjdHVhbDwvYT48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vVW5hdmFpbGFiaWxpdGllcy9Qcm9kVW5pdHMvUGFnZXMvQ29tbWlzc2lvbmluZy5hc3B4Jz5Db21taXNzaW9uaW5nPC9hPjwvdWw+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0xvYWQvUGFnZXMvZGVmYXVsdC5hc3B4Jz5Mb2FkPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9Mb2FkL1RvdGFsTG9hZC9QYWdlcy9kZWZhdWx0LmFzcHgnPlRvdGFsIExvYWQgRm9yZWNhc3Q8L2E+PHVsIGNsYXNzPSduaXZlbDRVTCc+PGxpIGNsYXNzPSduaXZlbDRMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0xvYWQvVG90YWxMb2FkL1BhZ2VzL0RhaWx5LmFzcHgnPkRhaWx5PC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9Mb2FkL1RvdGFsTG9hZC9QYWdlcy9XZWVrbHkuYXNweCc+V2Vla2x5PC9hPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9Mb2FkL1RvdGFsTG9hZC9QYWdlcy9Nb250aGx5LmFzcHgnPk1vbnRobHk8L2E+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9Mb2FkL1BhZ2VzL0xvYWRQcm9maWxlcy5hc3B4Jz5Mb2FkIFByb2ZpbGVzPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwyTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9HZW4vUGFnZXMvZGVmYXVsdC5hc3B4Jz5HZW5lcmF0aW9uPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9HZW4vUGFnZXMvRm9yZWNhc3QuYXNweCc+Rm9yZWNhc3Q8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL1VyZ2VudE1hcmtldC9QYWdlcy9kZWZhdWx0LmFzcHgnPlVyZ2VudCBNYXJrZXQgTWVzc2FnZXM8L2E+PHVsIGNsYXNzPSduaXZlbDNVTCc+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL1VyZ2VudE1hcmtldC9BcmNoaXZlL1BhZ2VzL2RlZmF1bHQuYXNweCc+QXJjaGl2ZTwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J25pdmVsMkxJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vRG9jdW1lbnQvUGFnZXMvZGVmYXVsdC5hc3B4Jz5Eb2N1bWVudHM8L2E+PHVsIGNsYXNzPSduaXZlbDNVTCc+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0RvY3VtZW50L1BhZ2VzL0xlZ2lzbGF0aW9uLmFzcHgnPkxlZ2lzbGF0aW9uPC9hPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0RvY3VtZW50L1BhZ2VzL1JlZ3VsYXRpb24uYXNweCc+UmVndWxhdGlvbjwvYT48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9Eb2N1bWVudC9QYWdlcy9TdWJSZWd1bGF0aW9uLmFzcHgnPlN1Yi1SZWd1bGF0aW9uPC9hPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0RvY3VtZW50L1BhZ2VzL0FkZGl0aW9uYWxSdWxlcy5hc3B4Jz5BZGRpdGlvbmFsIFJ1bGVzPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwyTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvTWFya2V0SW5mby9QdWJsaWNhdGlvbnMvUGFnZXMvZGVmYXVsdC5hc3B4Jz5QdWJsaWNhdGlvbnM8L2E+PHVsIGNsYXNzPSduaXZlbDNVTCc+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9NYXJrZXRJbmZvL1B1YmxpY2F0aW9ucy9QYWdlcy9XZWVrbHlNYXJrZXRSZXBvcnQuYXNweCc+V2Vla2x5IE1hcmtldCBSZXBvcnQ8L2E+PC9saT48bGkgY2xhc3M9J25pdmVsM0xJJz48YSBocmVmPScvRU4vRWxlY3RyL01hcmtldEluZm8vUHVibGljYXRpb25zL1BhZ2VzL0FubnVhbE1hcmtldFJlcG9ydC5hc3B4Jz5Bbm51YWwgTWFya2V0IFJlcG9ydDwvYT48L2xpPjwvdWw+PC9saT48L3VsPjwvbGk+PGxpPjxhIGNsYXNzPSdzZi13aXRoLXVsJyBocmVmPScvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9QYWdlcy9kZWZhdWx0LmFzcHgnPkFjdGl2aXRpZXMgYW5kIFNlcnZpY2VzPC9hPjx1bCBjbGFzcz0nbml2ZWwyVUwnPjxsaSBjbGFzcz0nbml2ZWwyTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQWN0aXZpdGllc1NlcnZpY2VzL05ldHdvcmtBY2Nlc3MvUGFnZXMvZGVmYXVsdC5hc3B4Jz5HcmlkIEFjY2VzczwvYT48dWwgY2xhc3M9J25pdmVsM1VMJz48bGkgY2xhc3M9J25pdmVsM0xJJz48YSBocmVmPScvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9OZXR3b3JrQWNjZXNzL1JOVFNwZWMvUGFnZXMvZGVmYXVsdC5hc3B4Jz5STlQgQ2hhcmFjdGVyaXNhdGlvbjwvYT48dWwgY2xhc3M9J25pdmVsNFVMJz48bGkgY2xhc3M9J25pdmVsNExJJz48YSBocmVmPScvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9OZXR3b3JrQWNjZXNzL1JOVFNwZWMvUGFnZXMvSW50ZXIuYXNweCc+SW50ZXJjb25uZWN0aW9uczwvYT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9BY3Rpdml0aWVzU2VydmljZXMvTmV0d29ya0FjY2Vzcy9EUG9pbnRzL1BhZ2VzL2RlZmF1bHQuYXNweCc+RGVsaXZlcnkgUG9pbnRzPC9hPjx1bCBjbGFzcz0nbml2ZWw0VUwnPjxsaSBjbGFzcz0nbml2ZWw0TEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQWN0aXZpdGllc1NlcnZpY2VzL05ldHdvcmtBY2Nlc3MvRFBvaW50cy9QYWdlcy9EUG9pbnRzTGlzdC5hc3B4Jz5EZWxpdmVyeSBQb2ludHMgTGlzdDwvYT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9BY3Rpdml0aWVzU2VydmljZXMvTmV0d29ya0FjY2Vzcy9Eb2N1bWVudC9QYWdlcy9kZWZhdWx0LmFzcHgnPkRvY3VtZW50czwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J25pdmVsMkxJJz48YSBocmVmPScvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9JbnRlcnJ1cHRpYmlsaXR5L1BhZ2VzL2RlZmF1bHQuYXNweCc+SW50ZXJydXB0aWJpbGl0eTwvYT48dWwgY2xhc3M9J25pdmVsM1VMJz48bGkgY2xhc3M9J25pdmVsM0xJJz48YSBocmVmPScvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9JbnRlcnJ1cHRpYmlsaXR5L1BhZ2VzL1NlcnZTdWJzY3JpcHRpb24uYXNweCc+U2VydmljZSBBY2Nlc3M8L2E+PC9saT48bGkgY2xhc3M9J25pdmVsM0xJJz48YSBocmVmPScvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9JbnRlcnJ1cHRpYmlsaXR5L1BhZ2VzL1RlY2hTcGVjaWYuYXNweCc+VGVjaG5pY2FsIFNwZWNpZmljYXRpb25zPC9hPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9BY3Rpdml0aWVzU2VydmljZXMvSW50ZXJydXB0aWJpbGl0eS9QYWdlcy9BdmFpbGFiaWxpdHkuYXNweCc+QXZhaWxhYmlsaXR5PC9hPjwvbGk+PGxpIGNsYXNzPSduaXZlbDNMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9BY3Rpdml0aWVzU2VydmljZXMvSW50ZXJydXB0aWJpbGl0eS9QYWdlcy9Bbm51YWxSZXBvcnQuYXNweCc+QW5udWFsIFJlcG9ydDwvYT48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQWN0aXZpdGllc1NlcnZpY2VzL0ludGVycnVwdGliaWxpdHkvRG9jdW1lbnQvUGFnZXMvZGVmYXVsdC5hc3B4Jz5Eb2N1bWVudHM8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9BY3Rpdml0aWVzU2VydmljZXMvQ2FwYWNpdHlQYXltZW50cy9QYWdlcy9kZWZhdWx0LmFzcHgnPkNhcGFjaXR5IFBheW1lbnRzPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQWN0aXZpdGllc1NlcnZpY2VzL0NhcGFjaXR5UGF5bWVudHMvUGFnZXMvRG9jdW1lbnRzLmFzcHgnPkRvY3VtZW50czwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J25pdmVsMkxJJz48YSBocmVmPScvRU4vRWxlY3RyL0FjdGl2aXRpZXNTZXJ2aWNlcy9NZXRlcmluZy9QYWdlcy9kZWZhdWx0LmFzcHgnPk1ldGVyaW5nPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQWN0aXZpdGllc1NlcnZpY2VzL01ldGVyaW5nL0RvY3VtZW50L1BhZ2VzL2RlZmF1bHQuYXNweCc+RG9jdW1lbnRzPC9hPjwvbGk+PC91bD48L2xpPjwvdWw+PC9saT48bGk+PGEgY2xhc3M9J3NmLXdpdGgtdWwnIGhyZWY9Jy9FTi9FbGVjdHIvSW50ZXJQcm9qL1BhZ2VzL2RlZmF1bHQuYXNweCc+SW50ZXJuYXRpb25hbCBQcm9qZWN0czwvYT48dWwgY2xhc3M9J25pdmVsMlVMJz48bGkgY2xhc3M9J25pdmVsMkxJJz48YSBocmVmPScvRU4vRWxlY3RyL0ludGVyUHJvai9SZWdJbml0U1dFL1BhZ2VzL2RlZmF1bHQuYXNweCc+UmVnaW9uYWwgSW5pdGlhdGl2ZXMgU1dFPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvSW50ZXJQcm9qL1JlZ0luaXRTV0UvRGF5QWhlYWQvUGFnZXMvZGVmYXVsdC5hc3B4Jz5EYXktQWhlYWQgTWFya2V0PC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nbml2ZWwyTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvSW50ZXJQcm9qL0lFU09FL1BhZ2VzL2RlZmF1bHQuYXNweCc+SUVTT0UgVHJhbnNwYXJlbmN5IFBsYXRmb3JtPC9hPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9JbnRlclByb2ovRU5UU09FVHJhbnMvUGFnZXMvZGVmYXVsdC5hc3B4Jz5FTlRTTy1FIFRyYW5zcGFyZW5jeSBQbGF0Zm9ybTwvYT48L2xpPjwvdWw+PC9saT48bGk+PGEgY2xhc3M9J3NmLXdpdGgtdWwnIGhyZWY9Jy9FTi9FbGVjdHIvQ29tbXVuaWNhdGlvbi9QYWdlcy9kZWZhdWx0LmFzcHgnPkNvbW11bmljYXRpb248L2E+PHVsIGNsYXNzPSduaXZlbDJVTCc+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9Db21tdW5pY2F0aW9uL05ld3MvUGFnZXMvZGVmYXVsdC5hc3B4Jz5OZXdzPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQ29tbXVuaWNhdGlvbi9OZXdzL1BhZ2VzL0xhdGVzdE5ld3MuYXNweCc+TGF0ZXN0IE5ld3M8L2E+PC9saT48bGkgY2xhc3M9J25pdmVsM0xJJz48YSBocmVmPScvRU4vRWxlY3RyL0NvbW11bmljYXRpb24vTmV3cy9QYWdlcy9BcmNoaXZlLmFzcHgnPkFyY2hpdmU8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9Db21tdW5pY2F0aW9uL0FsZXJ0L1BhZ2VzL2RlZmF1bHQuYXNweCc+QWxlcnQgTm90aWZpY2F0aW9uPC9hPjx1bCBjbGFzcz0nbml2ZWwzVUwnPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQ29tbXVuaWNhdGlvbi9BbGVydC9QYWdlcy9TdWJzLmFzcHgnPlN1YnNjcmlwdGlvbjwvYT48L2xpPjxsaSBjbGFzcz0nbml2ZWwzTEknPjxhIGhyZWY9Jy9FTi9FbGVjdHIvQ29tbXVuaWNhdGlvbi9BbGVydC9QYWdlcy9VblN1YnMuYXNweCc+VW5zdWJzY3JpcHRpb248L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9Db21tdW5pY2F0aW9uL1dlYlNlcnZpY2VzL1BhZ2VzL2RlZmF1bHQuYXNweCc+V2ViIFNlcnZpY2VzPC9hPjwvbGk+PGxpIGNsYXNzPSduaXZlbDJMSSc+PGEgaHJlZj0nL0VOL0VsZWN0ci9Db21tdW5pY2F0aW9uL0NvbnRhY3RzL1BhZ2VzL2RlZmF1bHQuYXNweCc+Q29udGFjdHM8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSduaXZlbDFVTCc+PC9saT48L2Rpdj48L3VsPmQCHQ9kFgICAQ88KwANAgAPFgYfCQUkL19sYXlvdXRzL2ltYWdlcy9sYXJnZWFycm93cmlnaHQuZ2lmHwdnHwgFJC9fbGF5b3V0cy9pbWFnZXMvbGFyZ2VhcnJvd3JpZ2h0LmdpZmQMFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYOHwoFEUNhcGFjaXR5IEZvcmVjYXN0HwsFEUNhcGFjaXR5IEZvcmVjYXN0HwwFRS9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcEZvcmVjYXN0L1BhZ2VzL2RlZmF1bHQuYXNweB8FZx8NZx8OBTIvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9DYXBGb3JlY2FzdB8PZxQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWDh8KBQhBbm51YWxseR8LBQhBbm51YWxseR8MBUYvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9DYXBGb3JlY2FzdC9QYWdlcy9Bbm51YWxseS5hc3B4HwVnHw1nHw4FRi9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcEZvcmVjYXN0L1BhZ2VzL0FubnVhbGx5LmFzcHgfD2dkFCsAAhYOHwoFB01vbnRobHkfCwUHTW9udGhseR8MBUUvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9DYXBGb3JlY2FzdC9QYWdlcy9Nb250aGx5LmFzcHgfBWcfDWcfDgVFL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwRm9yZWNhc3QvUGFnZXMvTW9udGhseS5hc3B4Hw9nZBQrAAIWDh8KBQZXZWVrbHkfCwUGV2Vla2x5HwwFRC9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcEZvcmVjYXN0L1BhZ2VzL1dlZWtseS5hc3B4HwVnHw1nHw4FRC9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcEZvcmVjYXN0L1BhZ2VzL1dlZWtseS5hc3B4Hw9nZBQrAAIWEB8KBQVEYWlseR8LBQVEYWlseR8MBUMvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9DYXBGb3JlY2FzdC9QYWdlcy9EYWlseS5hc3B4HwVnHw1nHw4FQy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcEZvcmVjYXN0L1BhZ2VzL0RhaWx5LmFzcHgfD2cfEGdkFCsAAhYOHwoFGENhcGFjaXR5ICZhbXA7IFNjaGVkdWxlcx8LBRhDYXBhY2l0eSAmYW1wOyBTY2hlZHVsZXMfDAVBL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwUHJvZy9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgUuL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwUHJvZx8PZxQrAAMFBzA6MCwwOjEUKwACFg4fCgUOTWFya2V0IFNlc3Npb24fCwUOTWFya2V0IFNlc3Npb24fDAVEL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwUHJvZy9QYWdlcy9Na3RTZXNzaW9uLmFzcHgfBWcfDWcfDgVEL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwUHJvZy9QYWdlcy9Na3RTZXNzaW9uLmFzcHgfD2dkFCsAAhYOHwoFBUZpbmFsHwsFBUZpbmFsHwwFRi9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0NhcFByb2cvUGFnZXMvQ29tU2NoZWR1bGVzLmFzcHgfBWcfDWcfDgVGL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQ2FwUHJvZy9QYWdlcy9Db21TY2hlZHVsZXMuYXNweB8PZ2QUKwACFg4fCgUOQ291bnRlcnRyYWRpbmcfCwUOQ291bnRlcnRyYWRpbmcfDAVAL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvUGFnZXMvQ291bnRlclRyYWRpbmcuYXNweB8FZx8NZx8OBUAvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9QYWdlcy9Db3VudGVyVHJhZGluZy5hc3B4Hw9nZBQrAAIWDh8KBRFFeHBsaWNpdCBBdWN0aW9ucx8LBRFFeHBsaWNpdCBBdWN0aW9ucx8MBUAvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9BdWN0aW9ucy9QYWdlcy9NYWluMi5hc3B4HwVnHw1nHw4FLy9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0F1Y3Rpb25zHw9nFCsAAwUHMDowLDA6MRQrAAIWDh8KBQ5TcGVjaWZpY2F0aW9ucx8LBQ5TcGVjaWZpY2F0aW9ucx8MBUIvRU4vRWxlY3RyL01hcmtldEluZm8vSW50ZXJjb25uZWN0aW9ucy9BdWN0aW9ucy9QYWdlcy9kZWZhdWx0LmFzcHgfBWcfDWcfDgVCL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQXVjdGlvbnMvUGFnZXMvZGVmYXVsdC5hc3B4Hw9nZBQrAAIWDh8KBQdSZXN1bHRzHwsFB1Jlc3VsdHMfDAVCL0VOL0VsZWN0ci9NYXJrZXRJbmZvL0ludGVyY29ubmVjdGlvbnMvQXVjdGlvbnMvUGFnZXMvUmVzdWx0cy5hc3B4HwVnHw1nHw4FQi9FTi9FbGVjdHIvTWFya2V0SW5mby9JbnRlcmNvbm5lY3Rpb25zL0F1Y3Rpb25zL1BhZ2VzL1Jlc3VsdHMuYXNweB8PZ2RkAiMPZBYCAgQPZBYEAgcPFgIfAAsrBAFkAgkPZBYCZg8PFgIfAmhkZBgFBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwU4Y3RsMDAkY3RsMTQkZ184N2Q2Y2U0NV9mNGFhXzRlMTFfOWJjY18wNWQ0YTQxZWE2MGQkY3RsMDQFOGN0bDAwJGN0bDE0JGdfODdkNmNlNDVfZjRhYV80ZTExXzliY2NfMDVkNGE0MWVhNjBkJGN0bDA1BThjdGwwMCRjdGwxNCRnXzg3ZDZjZTQ1X2Y0YWFfNGUxMV85YmNjXzA1ZDRhNDFlYTYwZCRjdGwwNQUPY3RsMDAkR2xvYmFsTmF2Dw9kBQdFbmdsaXNoZAU4Y3RsMDAkY3RsMTQkZ184N2Q2Y2U0NV9mNGFhXzRlMTFfOWJjY18wNWQ0YTQxZWE2MGQkY3RsMDYPPCsACgEIAgFkBRBjdGwwMCRsb2dvTGlua0lkDw9kBS5TaXN0ZW1hIGRlIEluZm9ybWHDp8OjbyBkZSBNZXJjYWRvcyBkZSBFbmVyZ2lhZAUmY3RsMDAkUGxhY2VIb2xkZXJMZWZ0TmF2QmFyJEN1cnJlbnROYXYPD2QFF0NhcGFjaXR5IEZvcmVjYXN0XERhaWx5ZIgeICxU5jPFtKF/U8NslnbRGIbr">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="./SIMEE - Daily_files/WebResource.axd" type="text/javascript"></script>
+
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script><script type="text/JavaScript" language="JavaScript">
+<!--
+var L_Menu_BaseUrl="/EN/Electr/MarketInfo/Interconnections/CapForecast";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="";
+//-->
+</script>
+<script src="./SIMEE - Daily_files/WebResource(1).axd" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fEN\u002fElectr\u002fMarketInfo\u002fInterconnections\u002fCapForecast', 1440000);return _spFormOnSubmitWrapper();
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALBlPvBBwLgqcJGAubnw7gFAuXnw7gFz+jjJSsw/DsOScyvxK9u34nzEvw=">
+</div>
+    <table cellpadding="0" cellspacing="0" class="master">
+        <tbody><tr>
+            <td class="shadowLeft1">
+                <div class="spacer">
+                </div>
+            </td>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+                    <tbody><tr style="height: 0px">
+                        <td>
+                            
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="authoringRegion">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="right">
+                            <table class="TopWrapper" cellpadding="0" cellspacing="0" border="0">
+                                <tbody><tr>
+                                    <td valign="middle">
+                                        <a title="Português" style="display:inline-block;height:20px" href="http://www.mercado.ren.pt/PT/Electr"><img class="imgPT" src="./SIMEE - Daily_files/ptGray.png"></a> <a title="English" style="display:inline-block;height:20px" href="http://www.mercado.ren.pt/EN/Electr"><img class="imgEN" src="./SIMEE - Daily_files/enLBlue.png"></a>
+                                    </td>
+                                    <td>
+                                        
+                                            <div class="searchWrapper">
+                                                <div id="SRSB"> <div id="ctl00_PlaceHolderSearchArea_SearchBox">
+	<table class="ms-sbtable ms-sbtable-ex" border="0">
+		<tbody><tr class="ms-sbrow">
+			<td class="ms-sbcell"><input name="InputKeywords" type="text" maxlength="200" id="ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords" accesskey="S" title="Enter search words" class="ms-sbplain" alt="Enter search words" onkeypress="javascript:return SD06736D6_OSBEK(event);" style="width:170px;"></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_go" title="Go Search" href="javascript:SD06736D6_Submit()"><img title="Go Search" onmouseover="this.src=&#39;/Style%20Library/Images/srcDBlue.png&#39;" onmouseout="this.src=&#39;/Style%20Library/Images/srcLBlue.png&#39;" alt="Go Search" src="./SIMEE - Daily_files/srcLBlue.png" style="border-width:0px;"></a></td><td class="ms-sbLastcell"></td>
+		</tr>
+	</tbody></table>
+</div></div>
+                                            </div>
+                                        
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td class="shadowRight1">
+                <div class="spacer">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="shadowLeft2">
+                <div class="spacer">
+                </div>
+            </td>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+                    <tbody><tr class="cabecalho">
+                        <td class="spacer">
+                            &nbsp;
+                        </td>
+                        
+                    </tr>
+                </tbody></table>
+            </td>
+            <td class="shadowRight2">
+                <div class="spacer">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="shadowLeft3">
+                <div class="spacer">
+                </div>
+            </td>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+                    <tbody><tr>
+                        <td colspan="4" class="topArea">
+                            <a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Daily.aspx#zz1_logoLinkId_SkipLink"><img alt="Skip Navigation Links" src="./SIMEE - Daily_files/WebResource(2).axd" width="0" height="0" style="border-width:0px;"></a><table id="zz1_logoLinkId" class="logo zz1_logoLinkId_2" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_logoLinkIdn0">
+		<td><table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td style="white-space:nowrap;width:100%;"><a class="zz1_logoLinkId_1" href="http://www.mercado.ren.pt/Paginas/default.aspx" accesskey="1">Sistema de Informação de Mercados de Energia</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table><a id="zz1_logoLinkId_SkipLink"></a>
+                            
+                            <div class="topLinkBar">
+                                <div class="topLink">
+                                    
+
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td class="shadowRight3">
+                <div class="spacer">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="shadowLeft4">
+                <div class="spacer">
+                </div>
+            </td>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+                    <tbody><tr class="topNavContainer">
+                        <td class="topNavRoundLeft">
+                            <div class="glassSpacerLeft">
+                        </div></td>
+                        <td valign="top">
+                            <!--<a href="#zz2_GlobalNav_SkipLink"><img alt="Skip navigation links" src="/WebResource.axd?d=OGq0Yrzc3cPovPfWo39WMmu36-NweUSXJplirsG0NBnOuGq6-3Ty1f9dDy1SQFVzkc9DISqdIiPjTAOIHCIz5BXQXAA1&amp;t=635776054879018122" width="0" height="0" style="border-width:0px;" /></a><table id="zz2_GlobalNav" class="topNav zz2_GlobalNav_2" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn0"><table class="topNavItem zz2_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="zz2_GlobalNav_1 topNavItem zz2_GlobalNav_3" href="/Paginas/default.aspx" style="border-style:none;font-size:1em;">Início</a></td>
+			</tr>
+		</table></td><td style="width:0px;"></td><td style="width:0px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn1"><table class="topNavItem zz2_GlobalNav_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="zz2_GlobalNav_1 topNavItem zz2_GlobalNav_3" href="/PT/Paginas/default.aspx" style="border-style:none;font-size:1em;">Português</a></td>
+			</tr>
+		</table></td><td style="width:0px;"></td><td style="width:0px;"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn2"><table class="topNavItem zz2_GlobalNav_4 topNavSelected zz2_GlobalNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="zz2_GlobalNav_1 topNavItem zz2_GlobalNav_3 topNavSelected zz2_GlobalNav_8" href="/EN/Pages/default.aspx" style="border-style:none;font-size:1em;">English</a></td>
+			</tr>
+		</table></td><td style="width:0px;"></td>
+	</tr>
+</table><div id="zz2_GlobalNavn1Items" class="zz2_GlobalNav_0 topNavFlyOuts zz2_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn3">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/ELECTR/Paginas/default.aspx" style="border-style:none;font-size:1em;">Eletricidade</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn4">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Gas/Paginas/default.aspx" style="border-style:none;font-size:1em;">Gás</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn5">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Paginas/PeriodosHorarios.aspx" style="border-style:none;font-size:1em;">Períodos Horários</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=N_xmk_Yz-LUko_UvduYYHYIpwEfoUDhwiv61li3g5UDNyQ0aidAeJNPpEOrZWnPcxHEe2vwQAa8S8HOS5dcYKAUz7_k1&amp;t=635776054879018122" alt="Scroll up" />
+	</div><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=eu5O0RImCfpOh2Ze_7oJOrTUX3u34yAV6wIALVQ1fd1QdwnWz1do88Pl7LKdeUoA5ucib4mtYir0yEh0boSHq0kLamM1&amp;t=635776054879018122" alt="Scroll down" />
+	</div>
+</div><div id="zz2_GlobalNavn3Items" class="zz2_GlobalNav_0 topNavFlyOuts zz2_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn6">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/ELECTR/INFOMERCADO/Paginas/default.aspx" style="border-style:none;font-size:1em;">Informação de Mercado</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn7">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Electr/ActServ/Paginas/default.aspx" style="border-style:none;font-size:1em;">Atividades e Serviços</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn8">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Electr/ProjInter/Paginas/default.aspx" style="border-style:none;font-size:1em;">Projetos Internacionais</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn9">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Electr/Comunicacao/Paginas/default.aspx" style="border-style:none;font-size:1em;">Comunicação</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=N_xmk_Yz-LUko_UvduYYHYIpwEfoUDhwiv61li3g5UDNyQ0aidAeJNPpEOrZWnPcxHEe2vwQAa8S8HOS5dcYKAUz7_k1&amp;t=635776054879018122" alt="Scroll up" />
+	</div><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=eu5O0RImCfpOh2Ze_7oJOrTUX3u34yAV6wIALVQ1fd1QdwnWz1do88Pl7LKdeUoA5ucib4mtYir0yEh0boSHq0kLamM1&amp;t=635776054879018122" alt="Scroll down" />
+	</div>
+</div><div id="zz2_GlobalNavn4Items" class="zz2_GlobalNav_0 topNavFlyOuts zz2_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn10">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Gas/InfoMercado/Paginas/default.aspx" style="border-style:none;font-size:1em;">Informação de Mercado</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn11">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Gas/ActServicos/Paginas/default.aspx" style="border-style:none;font-size:1em;">Atividades e Serviços</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn12">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Gas/ProjIntern/Paginas/default.aspx" style="border-style:none;font-size:1em;">Projetos Internacionais</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn13">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/PT/Gas/Comunicacao/Paginas/default.aspx" style="border-style:none;font-size:1em;">Comunicação</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=N_xmk_Yz-LUko_UvduYYHYIpwEfoUDhwiv61li3g5UDNyQ0aidAeJNPpEOrZWnPcxHEe2vwQAa8S8HOS5dcYKAUz7_k1&amp;t=635776054879018122" alt="Scroll up" />
+	</div><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=eu5O0RImCfpOh2Ze_7oJOrTUX3u34yAV6wIALVQ1fd1QdwnWz1do88Pl7LKdeUoA5ucib4mtYir0yEh0boSHq0kLamM1&amp;t=635776054879018122" alt="Scroll down" />
+	</div>
+</div><div id="zz2_GlobalNavn2Items" class="zz2_GlobalNav_0 topNavFlyOuts zz2_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn14">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/ELECTR/Pages/default.aspx" style="border-style:none;font-size:1em;">Electricity</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn15">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Gas/Pages/default.aspx" style="border-style:none;font-size:1em;">Natural Gas</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn16">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Pages/TimePeriods.aspx" style="border-style:none;font-size:1em;">Time Periods</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=N_xmk_Yz-LUko_UvduYYHYIpwEfoUDhwiv61li3g5UDNyQ0aidAeJNPpEOrZWnPcxHEe2vwQAa8S8HOS5dcYKAUz7_k1&amp;t=635776054879018122" alt="Scroll up" />
+	</div><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=eu5O0RImCfpOh2Ze_7oJOrTUX3u34yAV6wIALVQ1fd1QdwnWz1do88Pl7LKdeUoA5ucib4mtYir0yEh0boSHq0kLamM1&amp;t=635776054879018122" alt="Scroll down" />
+	</div>
+</div><div id="zz2_GlobalNavn14Items" class="zz2_GlobalNav_0 topNavFlyOuts zz2_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn17">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/ELECTR/MARKETINFO/Pages/default.aspx" style="border-style:none;font-size:1em;">Market Information</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn18">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Electr/ActivitiesServices/Pages/default.aspx" style="border-style:none;font-size:1em;">Activities and Services</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn19">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Electr/InterProj/Pages/default.aspx" style="border-style:none;font-size:1em;">International Projects</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn20">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Electr/Communication/Pages/default.aspx" style="border-style:none;font-size:1em;">Communication</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn14ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=N_xmk_Yz-LUko_UvduYYHYIpwEfoUDhwiv61li3g5UDNyQ0aidAeJNPpEOrZWnPcxHEe2vwQAa8S8HOS5dcYKAUz7_k1&amp;t=635776054879018122" alt="Scroll up" />
+	</div><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn14ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=eu5O0RImCfpOh2Ze_7oJOrTUX3u34yAV6wIALVQ1fd1QdwnWz1do88Pl7LKdeUoA5ucib4mtYir0yEh0boSHq0kLamM1&amp;t=635776054879018122" alt="Scroll down" />
+	</div>
+</div><div id="zz2_GlobalNavn15Items" class="zz2_GlobalNav_0 topNavFlyOuts zz2_GlobalNav_7">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn21">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Gas/MarketInfo/Pages/default.aspx" style="border-style:none;font-size:1em;">Market Information</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn22">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Gas/ActServices/Pages/default.aspx" style="border-style:none;font-size:1em;">Activities and Services</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn23">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Gas/InterProj/Pages/default.aspx" style="border-style:none;font-size:1em;">International Projects</a></td>
+				</tr>
+			</table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz2_GlobalNavn24">
+			<td><table class="topNavFlyOutsItem zz2_GlobalNav_6" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td style="white-space:nowrap;width:100%;"><a class="zz2_GlobalNav_1 topNavFlyOutsItem zz2_GlobalNav_5" href="/EN/Gas/Communication/Pages/default.aspx" style="border-style:none;font-size:1em;">Communication</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn15ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=N_xmk_Yz-LUko_UvduYYHYIpwEfoUDhwiv61li3g5UDNyQ0aidAeJNPpEOrZWnPcxHEe2vwQAa8S8HOS5dcYKAUz7_k1&amp;t=635776054879018122" alt="Scroll up" />
+	</div><div class="topNavFlyOutsItem zz2_GlobalNav_6 zz2_GlobalNav_0" id="zz2_GlobalNavn15ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+		<img src="/WebResource.axd?d=eu5O0RImCfpOh2Ze_7oJOrTUX3u34yAV6wIALVQ1fd1QdwnWz1do88Pl7LKdeUoA5ucib4mtYir0yEh0boSHq0kLamM1&amp;t=635776054879018122" alt="Scroll down" />
+	</div>
+</div><a id="zz2_GlobalNav_SkipLink"></a>-->
+                            
+
+
+<script src="./SIMEE - Daily_files/hoverIntent.js.pobrane"></script> 
+<script src="./SIMEE - Daily_files/superfish.js.pobrane"></script>  
+<script src="./SIMEE - Daily_files/jquery-1.2.6.min.js.pobrane"></script>  
+
+<script>
+    JQuery(document).ready(function() {
+        JQuery("ul.menu").superfish({ 
+            pathClass: 'current'
+        });
+    });
+    
+</script>
+
+
+<ul class="menu" id="top-menu"><div class="div-menu"><li class="current"><a class="sf-with-ul" href="http://www.mercado.ren.pt/EN/ELECTR/MARKETINFO/Pages/default.aspx">Market Information</a><ul class="nivel2UL"><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/Pages/default.aspx">Structural Information</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/Pages/MarketAgents.aspx">Market Agents</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/MarketUnits/Pages/default.aspx">Market Units</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/MarketUnits/Pages/ProgrUnits.aspx">Programming Units</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/MarketUnits/Pages/BalanceAreas.aspx">Balance Areas</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/MarketUnits/Pages/ProductionUnits.aspx">Physical Units</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/MarketUnits/Pages/GenerationUnits.aspx">Generation Units</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/EIC/Pages/default.aspx">EIC Codes</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/EIC/Pages/Structure.aspx">Code Structure</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/EIC/Pages/Administration.aspx">Management</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/EIC/Pages/LocalCodes.aspx">Code List - LIO REN</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/StructuralInfo/EIC/Pages/FAQ.aspx">FAQ</a></li></ul></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Pages/default.aspx">Market Results</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/OMIE/Pages/default.aspx">MIBEL</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/OMIE/Pages/Prices.aspx">Prices</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/OMIE/Pages/Energy.aspx">Energy</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Bids/Pages/default.aspx">Bids</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Bids/Pages/TecConstraints.aspx">Technical Constraints</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Bids/Pages/SecondaryReserve.aspx">Secondary Reserve</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Bids/Pages/RegulatingReserve.aspx">Regulating Reserve</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/SecReserveAllocation/Pages/default.aspx">Secondary Reserve</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/SecReserveAllocation/Pages/Allocation.aspx">Allocation</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/SecReserveAllocation/Pages/Price.aspx">Price</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Schedules/Pages/default.aspx">Schedules</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Schedules/Pages/PDBF.aspx">PDBF</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Schedules/Pages/PDVP.aspx">PDVP</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Schedules/Pages/PHF.aspx">PHF</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Schedules/Pages/PHOF.aspx">PHOF</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/ReserveEnergy/Pages/default.aspx">Reserve Energy</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/ReserveEnergy/Pages/SecReserve.aspx">Secondary Reserve</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/ReserveEnergy/Pages/RegReserve.aspx">Regulating Reserve</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/ReserveEnergy/Pages/Price.aspx">Price</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/TechConstraints/Pages/default.aspx">Technical Constraints</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/TechConstraints/Pages/DayAheadEnergy.aspx">Day Ahead - Energy</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/TechConstraints/Pages/DayAheadCost.aspx">Day Ahead - Cost</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/TechConstraints/Pages/RealTimeEnergy.aspx">Real Time - Energy</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/TechConstraints/Pages/RealTimeCost.aspx">Real Time - Cost</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Imbalances/Pages/default.aspx">Imbalances</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Imbalances/Pages/ImbalancesAgent.aspx">Imbalances per Agent</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Imbalances/Pages/ImbalancesUnit.aspx">Imbalances per Unit</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/Imbalances/Pages/Costs.aspx">Costs</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/MarketResults/CBBalancing/Pages/default.aspx">Cross Border Balancing</a></li></ul></li><li class="current"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Pages/default.aspx">Interconnections</a><ul class="nivel3UL"><li class="current"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/default.aspx">Capacity Forecast</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Annually.aspx">Annually</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Monthly.aspx">Monthly</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Weekly.aspx">Weekly</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Daily.aspx">Daily</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapProg/Pages/default.aspx">Capacity &amp; Schedules</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapProg/Pages/MktSession.aspx">Market Session</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapProg/Pages/ComSchedules.aspx">Final</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Pages/CounterTrading.aspx">Countertrading</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Auctions/Pages/Main2.aspx">Explicit Auctions</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Auctions/Pages/default.aspx">Specifications</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Auctions/Pages/Results.aspx">Results</a></li></ul></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/ELECTR/MARKETINFO/UNAVAILABILITIES/Pages/default.aspx">Unavailabilities</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Unavailabilities/ProdUnits/Pages/default.aspx">Generation Units</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Unavailabilities/ProdUnits/Pages/Planned.aspx">Planned</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/ELECTR/MARKETINFO/UNAVAILABILITIES/PRODUNITS/Pages/Actual.aspx">Actual</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Unavailabilities/ProdUnits/Pages/Commissioning.aspx">Commissioning</a></li></ul></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Load/Pages/default.aspx">Load</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Load/TotalLoad/Pages/default.aspx">Total Load Forecast</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Load/TotalLoad/Pages/Daily.aspx">Daily</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Load/TotalLoad/Pages/Weekly.aspx">Weekly</a></li><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Load/TotalLoad/Pages/Monthly.aspx">Monthly</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Load/Pages/LoadProfiles.aspx">Load Profiles</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Gen/Pages/default.aspx">Generation</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Gen/Pages/Forecast.aspx">Forecast</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/UrgentMarket/Pages/default.aspx">Urgent Market Messages</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/UrgentMarket/Archive/Pages/default.aspx">Archive</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Document/Pages/default.aspx">Documents</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Document/Pages/Legislation.aspx">Legislation</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Document/Pages/Regulation.aspx">Regulation</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Document/Pages/SubRegulation.aspx">Sub-Regulation</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Document/Pages/AdditionalRules.aspx">Additional Rules</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Publications/Pages/default.aspx">Publications</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Publications/Pages/WeeklyMarketReport.aspx">Weekly Market Report</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Publications/Pages/AnnualMarketReport.aspx">Annual Market Report</a></li></ul></li></ul></li><li><a class="sf-with-ul" href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Pages/default.aspx">Activities and Services</a><ul class="nivel2UL"><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/NetworkAccess/Pages/default.aspx">Grid Access</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/NetworkAccess/RNTSpec/Pages/default.aspx">RNT Characterisation</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/NetworkAccess/RNTSpec/Pages/Inter.aspx">Interconnections</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/NetworkAccess/DPoints/Pages/default.aspx">Delivery Points</a><ul class="nivel4UL"><li class="nivel4LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/NetworkAccess/DPoints/Pages/DPointsList.aspx">Delivery Points List</a></li></ul></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/NetworkAccess/Document/Pages/default.aspx">Documents</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Interruptibility/Pages/default.aspx">Interruptibility</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Interruptibility/Pages/ServSubscription.aspx">Service Access</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Interruptibility/Pages/TechSpecif.aspx">Technical Specifications</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Interruptibility/Pages/Availability.aspx">Availability</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Interruptibility/Pages/AnnualReport.aspx">Annual Report</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Interruptibility/Document/Pages/default.aspx">Documents</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/CapacityPayments/Pages/default.aspx">Capacity Payments</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/CapacityPayments/Pages/Documents.aspx">Documents</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Metering/Pages/default.aspx">Metering</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/ActivitiesServices/Metering/Document/Pages/default.aspx">Documents</a></li></ul></li></ul></li><li><a class="sf-with-ul" href="http://www.mercado.ren.pt/EN/Electr/InterProj/Pages/default.aspx">International Projects</a><ul class="nivel2UL"><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/InterProj/RegInitSWE/Pages/default.aspx">Regional Initiatives SWE</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/InterProj/RegInitSWE/DayAhead/Pages/default.aspx">Day-Ahead Market</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/InterProj/IESOE/Pages/default.aspx">IESOE Transparency Platform</a></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/InterProj/ENTSOETrans/Pages/default.aspx">ENTSO-E Transparency Platform</a></li></ul></li><li><a class="sf-with-ul" href="http://www.mercado.ren.pt/EN/Electr/Communication/Pages/default.aspx">Communication</a><ul class="nivel2UL"><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/News/Pages/default.aspx">News</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/News/Pages/LatestNews.aspx">Latest News</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/News/Pages/Archive.aspx">Archive</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/Alert/Pages/default.aspx">Alert Notification</a><ul class="nivel3UL"><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/Alert/Pages/Subs.aspx">Subscription</a></li><li class="nivel3LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/Alert/Pages/UnSubs.aspx">Unsubscription</a></li></ul></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/WebServices/Pages/default.aspx">Web Services</a></li><li class="nivel2LI"><a href="http://www.mercado.ren.pt/EN/Electr/Communication/Contacts/Pages/default.aspx">Contacts</a></li></ul></li><li class="nivel1UL"></li></div></ul>
+                            
+                        </td>
+                        <td align="right">
+                            <div class="search">
+                                &nbsp;
+                            </div>
+                        </td>
+                        <td class="topNavRoundRight">
+                            <div class="glassSpacerRight">
+                        </div></td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td class="shadowRight4">
+                <div class="spacer">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="shadowLeft5">
+                <div class="spacer">
+                </div>
+            </td>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+                    <tbody><tr>
+                        <td>
+                            
+                                <div class="breadcrumb">
+                                    <span id="ctl00_PlaceHolderTitleBreadcrumb_siteMapPath"><a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Daily.aspx#ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="./SIMEE - Daily_files/WebResource(2).axd" style="border-width:0px;"></a><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/ELECTR/Pages/default.aspx">Electricity</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/ELECTR/MARKETINFO/Pages/default.aspx">Market Information</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Pages/default.aspx">Interconnections</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/default.aspx">Capacity Forecast</a></span><span> &gt; </span><span class="breadcrumbCurrent">Daily</span><a id="ctl00_PlaceHolderTitleBreadcrumb_siteMapPath_SkipLink"></a></span>
+                                </div>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td class="shadowRight5">
+                <div class="spacer">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="shadowLeft6">
+                <div class="spacer">
+                </div>
+            </td>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+                    <tbody><tr class="meio">
+                        <td valign="top">
+                            
+                            
+                            
+                                <!-- Current Navigation -->
+                                <a href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Daily.aspx#zz3_CurrentNav_SkipLink"><img alt="Skip navigation links" src="./SIMEE - Daily_files/WebResource(2).axd" width="0" height="0" style="border-width:0px;"></a><table id="zz3_CurrentNav" class="leftNav zz3_CurrentNav_2" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn0">
+		<td><table class="leftNav1 zz3_CurrentNav_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav1 zz3_CurrentNav_6" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/default.aspx" accesskey="3" style="border-style:none;font-size:1em;">Capacity Forecast</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn1">
+				<td><table class="leftNav2 zz3_CurrentNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Annually.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Annually</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn2">
+				<td><table class="leftNav2 zz3_CurrentNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Monthly.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Monthly</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn3">
+				<td><table class="leftNav2 zz3_CurrentNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Weekly.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Weekly</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn4">
+				<td><table class="leftNav2 zz3_CurrentNav_9 leftNavSelected zz3_CurrentNav_13" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8 leftNavSelected zz3_CurrentNav_12" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/Daily.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Daily</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn5">
+		<td><table class="leftNav1 zz3_CurrentNav_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav1 zz3_CurrentNav_6" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapProg/Pages/default.aspx" style="border-style:none;font-size:1em;">Capacity &amp; Schedules</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn6">
+				<td><table class="leftNav2 zz3_CurrentNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapProg/Pages/MktSession.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Market Session</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn7">
+				<td><table class="leftNav2 zz3_CurrentNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapProg/Pages/ComSchedules.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Final</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn8">
+		<td><table class="leftNav1 zz3_CurrentNav_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav1 zz3_CurrentNav_6" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Pages/CounterTrading.aspx" style="border-style:none;font-size:1em;">Countertrading</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn9">
+		<td><table class="leftNav1 zz3_CurrentNav_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav1 zz3_CurrentNav_6" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Auctions/Pages/Main2.aspx" style="border-style:none;font-size:1em;">Explicit Auctions</a></td>
+			</tr>
+		</tbody></table></td>
+	</tr><tr>
+		<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn10">
+				<td><table class="leftNav2 zz3_CurrentNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Auctions/Pages/default.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Specifications</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz3_CurrentNavn11">
+				<td><table class="leftNav2 zz3_CurrentNav_9" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tbody><tr>
+						<td style="width:100%;"><a class="zz3_CurrentNav_1 leftNav2 zz3_CurrentNav_8" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Auctions/Pages/Results.aspx" style="border-style:none;font-size:1em;margin-left:2px;">Results</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table><a id="zz3_CurrentNav_SkipLink"></a>
+                                
+                            
+                            
+                            
+                                <div class="leftNavSpacer">
+                            
+                        </div></td>
+                        <td valign="top" class="meioWPContent">
+                            <div id="ctl00_MSO_ContentDiv" class="mainContainer">
+                                <div class="pageTitle">
+                                    
+                                </div>
+                                <div class="mainContent">
+                                    
+	
+	<div class="ms-pagebreadcrumb removeMargins">
+		<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/Paginas/default.aspx">Sistema de Informação de Mercados de Energia</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/Pages/default.aspx">English</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/ELECTR/Pages/default.aspx">Electricity</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/ELECTR/MARKETINFO/Pages/default.aspx">Market Information</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/Pages/default.aspx">Interconnections</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="http://www.mercado.ren.pt/EN/Electr/MarketInfo/Interconnections/CapForecast/Pages/default.aspx">Capacity Forecast</a></span><span> &gt; </span><span class="ms-sitemapdirectional">Daily</span></span>
+	</div>
+	
+	<div class="pageContent">
+		<div id="ctl00_PlaceHolderMain_PageContent__ControlWrapper_RichHtmlField" style="display:inline"><p class="pageTitle">Daily Interconnection Capacity Forecast</p>
+<p class="pageTitle">&nbsp;</p></div>
+	</div>
+	<table width="100%">
+		<tbody><tr>
+			<td width="100%" valign="top" colspan="2">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td id="MSOZoneCell_WebPartctl00_ctl14_g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d" valign="top"><table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="87d6ce45-f4aa-4e11-9bcc-05d4a41ea60d" haspers="false" id="WebPartctl00_ctl14_g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d" width="100%" class="ms-WPBody" allowdelete="false" allowexport="false" style=""><div id="ctl00_ctl14_g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d">
+					<div class="painelBDRCOLOR" style="text-align:left;">
+						<table cellpadding="0" cellspacing="0"><tbody><tr height="25px"><td align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="legenda"><input id="ctl00_ctl14_g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d_ctl04" type="radio" name="ctl00$ctl14$g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d$ImpExp" value="ctl04" checked="checked"><label for="ctl00_ctl14_g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d_ctl04">Import Capacity</label></span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="legenda"><input id="ctl00_ctl14_g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d_ctl05" type="radio" name="ctl00$ctl14$g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d$ImpExp" value="ctl05" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ctl14$g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d$ctl05\&#39;,\&#39;\&#39;)&#39;, 0)"><label for="ctl00_ctl14_g_87d6ce45_f4aa_4e11_9bcc_05d4a41ea60d_ctl05">Export Capacity</label></span></td></tr></tbody></table>
+					</div><div>
+						<br><div>
+							<table class="gridALL" cellspacing="0" cellpadding="2" border="0" style="border-collapse:collapse;">
+								<tbody><tr>
+									<th align="left" colspan="2">
+                    <a id="helpTimePeriod" href="http://www.mercado.ren.pt/EN/pages/TimePeriods.aspx" target="_blank">
+                        <span class="txtDATA">HOURS</span> 
+                        <span style="vertical-align: 13%;" class="icon-info">&nbsp;</span>
+                    </a></th><th align="left" valign="middle" colspan="29">Import Capacity</th>
+								</tr><tr class="tabHEADER">
+									<th class="rbcellBDRCOLOR" align="right" scope="col">HOUR</th><th class="rbcellBDRCOLOR" align="right" scope="col">20&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">21&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">22&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">23&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">24&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">25&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">26&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">27&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">28&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">29&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">30&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">31&nbsp;Jan</th><th class="rbcellBDRCOLOR" align="right" scope="col">01&nbsp;Feb</th><th class="rbcellBDRCOLOR" align="right" scope="col">02&nbsp;Feb</th><th class="bcellBDRCOLOR" align="right" scope="col">03&nbsp;Feb</th>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">1</td><td class="txtrVERIF" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">2</td><td class="txtrVERIF" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">3</td><td class="txtrVERIF" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">4</td><td class="txtrVERIF" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">5</td><td class="txtrVERIF" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">6</td><td class="txtrVERIF" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">7</td><td class="txtrVERIF" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">8</td><td class="txtrVERIF" align="right" style="width:60px;">1350</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">9</td><td class="txtrVERIF" align="right" style="width:60px;">1350</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtPREV" align="right" style="width:60px;">1700</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">10</td><td class="txtrVERIF" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">11</td><td class="txtrVERIF" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">12</td><td class="txtrVERIF" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">13</td><td class="txtrVERIF" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">14</td><td class="txtrVERIF" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">15</td><td class="txtrVERIF" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">16</td><td class="txtrPREV" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">17</td><td class="txtrPREV" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">18</td><td class="txtrPREV" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1700</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">19</td><td class="txtrPREV" align="right" style="width:60px;">1300</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">20</td><td class="txtrPREV" align="right" style="width:60px;">1500</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">21</td><td class="txtrPREV" align="right" style="width:60px;">1500</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">22</td><td class="txtrPREV" align="right" style="width:60px;">1500</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">23</td><td class="txtrPREV" align="right" style="width:60px;">1500</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="trIMPAR">
+									<td class="rcellBDRCOLOR" align="right" style="width:50px;">24</td><td class="txtrPREV" align="right" style="width:60px;">1500</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">1800</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtrPREV" align="right" style="width:60px;">2000</td><td class="txtPREV" align="right" style="width:60px;">2000</td>
+								</tr><tr class="tabFOOTER" style="height:15px;">
+									<td class="tfootBDRCOLOR" align="left" valign="bottom" colspan="6">Units:&nbsp;&nbsp;MW</td><td class="tfootBDRCOLOR" align="right" valign="bottom" colspan="25"><span class="txtVERIF">Actual</span>&nbsp;/&nbsp;<span class="txtPREV">Forecast</span></td>
+								</tr>
+							</tbody></table>
+						</div>
+					</div><div style="text-align:left;">
+						<br>
+					</div>
+				</div></div></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+            <td class="shadowRight6">
+                <div class="spacer">
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="shadowLeft7">
+                <div class="spacer">
+                </div>
+            </td>
+            <td valign="top">
+                <table cellpadding="0" cellspacing="0" width="100%" class="masterContent">
+                    <tbody><tr class="rodape">
+                        <td class="spacer">
+                            &nbsp;
+                        </td>
+                        <td class="ms-globallinks">
+                            <!--<a href="#ctl00_NavigationMenu_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=OGq0Yrzc3cPovPfWo39WMmu36-NweUSXJplirsG0NBnOuGq6-3Ty1f9dDy1SQFVzkc9DISqdIiPjTAOIHCIz5BXQXAA1&amp;t=635776054879018122" width="0" height="0" style="border-width:0px;" /></a><table id="ctl00_NavigationMenu" class="ctl00_NavigationMenu_2" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_NavigationMenun0"><table class="bottomNavItem ctl00_NavigationMenu_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" href="http://www.ren.pt" style="border-style:none;font-size:1em;">Sítio REN</a></td>
+			</tr>
+		</table></td><td style="width:3px;"></td><td><img src="/Style%20Library/Images/gm_Navbar_Splitter_verde.jpg" alt="" /></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_NavigationMenun1"><table class="bottomNavItem ctl00_NavigationMenu_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" href="/Paginas/Mapa.aspx" style="border-style:none;font-size:1em;">Mapa do sítio</a></td>
+			</tr>
+		</table></td><td style="width:3px;"></td><td><img src="/Style%20Library/Images/gm_Navbar_Splitter_verde.jpg" alt="" /></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_NavigationMenun2"><table class="bottomNavItem ctl00_NavigationMenu_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" href="/Paginas/InformaLei.aspx" style="border-style:none;font-size:1em;">Aviso legal</a></td>
+			</tr>
+		</table></td><td style="width:3px;"></td><td><img src="/Style%20Library/Images/gm_Navbar_Splitter_verde.jpg" alt="" /></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="ctl00_NavigationMenun3"><table class="bottomNavItem ctl00_NavigationMenu_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td style="white-space:nowrap;"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" href="/Paginas/Contactos.aspx" style="border-style:none;font-size:1em;">Contactos</a></td>
+			</tr>
+		</table></td>
+	</tr>
+</table><a id="ctl00_NavigationMenu_SkipLink"></a>-->
+                            <table class="masterContent" style="width:975px" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="rodape">
+<td class="spacer">&nbsp;</td>
+<td class="ms-globallinks">
+<table class="ctl00_NavigationMenu_2" id="ctl00_NavigationMenu" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td id="ctl00_NavigationMenun0">
+<table class="bottomNavItem ctl00_NavigationMenu_4" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="white-space:nowrap"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" style="font-size:1em;border-top-style:none;border-right-style:none;border-left-style:none;border-bottom-style:none" href="http://www.ren.pt/">Site REN</a></td></tr></tbody></table></td>
+<td style="width:3px"></td>
+<td><img alt="" src="./SIMEE - Daily_files/gm_Navbar_Splitter_verde.jpg"></td>
+<td id="ctl00_NavigationMenun1">
+<table class="bottomNavItem ctl00_NavigationMenu_4" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="white-space:nowrap"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" style="font-size:1em;border-top-style:none;border-right-style:none;border-left-style:none;border-bottom-style:none" href="http://www.mercado.ren.pt/EN/Electr/Pages/SiteMap.aspx">Site Map</a></td></tr></tbody></table></td>
+<td style="width:3px"></td>
+<td><img alt="" src="./SIMEE - Daily_files/gm_Navbar_Splitter_verde.jpg"></td>
+<td id="ctl00_NavigationMenun2">
+<table class="bottomNavItem ctl00_NavigationMenu_4" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="white-space:nowrap"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" style="font-size:1em;border-top-style:none;border-right-style:none;border-left-style:none;border-bottom-style:none" href="http://www.mercado.ren.pt/EN/Electr/Pages/Disclaimer.aspx">Disclaimer</a></td></tr></tbody></table></td>
+<td style="width:3px"></td>
+<td><img alt="" src="./SIMEE - Daily_files/gm_Navbar_Splitter_verde.jpg"></td>
+<td id="ctl00_NavigationMenun3">
+<table class="bottomNavItem ctl00_NavigationMenu_4" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td style="white-space:nowrap"><a class="ctl00_NavigationMenu_1 bottomNavItem ctl00_NavigationMenu_3" style="font-size:1em;border-top-style:none;border-right-style:none;border-left-style:none;border-bottom-style:none" href="http://www.mercado.ren.pt/EN/Electr/Communication/Contacts/Pages/default.aspx">Contacts</a></td></tr></tbody></table></td></tr></tbody></table><a id="ctl00_NavigationMenu_SkipLink"></a></td>
+<td class="spacer">&nbsp;</td>
+<td class="copyright" align="right">© REN 2014</td></tr></tbody></table>
+<div class="spacer"></div>
+                        </td>
+                        <!--<td class="spacer">
+&nbsp;</td>
+<td class="copyright" align="right">&copy; REN 2009</td>-->
+                    </tr>
+                </tbody></table>
+            </td>
+            <td class="shadowRight7">
+                <div class="spacer">
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+<script type="text/javascript" language="JavaScript" defer="">
+<!--
+function SD06736D6_Submit() {GoSearch(null,'ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords',null,true,false,null,null,null,null,'\u002fSearch\u002fResults.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002fEN\u002fElectr\u002fMarketInfo\u002fInterconnections\u002fCapForecast\u002f_layouts\u002fOSSSearchResults.aspx');}
+// -->
+</script><script type="text/javascript" language="JavaScript">
+// append an onload event handler
+var SD06736D6__onload= document.body.onload;
+if(typeof document.body.onload == 'function')
+{
+ document.body.onload = function()
+ {
+SD06736D6__onload();        
+  document.getElementById('ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords').name = 'InputKeywords';
+ }
+}
+else
+{
+ document.body.onload = function()
+ {
+  eval(SD06736D6__onload);        
+  document.getElementById('ctl00_PlaceHolderSearchArea_SearchBox_SD06736D6_InputKeywords').name = 'InputKeywords';
+ }
+}
+
+function SD06736D6_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+SD06736D6_Submit();
+}
+}
+// -->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var zz1_logoLinkId_Data = new Object();
+zz1_logoLinkId_Data.disappearAfter = 500;
+zz1_logoLinkId_Data.horizontalOffset = 0;
+zz1_logoLinkId_Data.verticalOffset = 0;
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+var flyoutsAllowed = false;
+function enableFlyoutsAfterDelay()
+{
+setTimeout('flyoutsAllowed = true;', 50);
+}
+function overrideMenu_HoverStatic(item)
+{
+if (!flyoutsAllowed || (document.readyState != null && document.readyState != 'complete'))
+{
+setTimeout(delayMenu_HoverStatic(item), 50);
+}
+else
+{
+// this code is the default ASP.NET implementation of Menu_HoverStatic
+var node = Menu_HoverRoot(item);
+var data = Menu_GetData(item);
+if (!data) return;
+__disappearAfter = data.disappearAfter;
+Menu_Expand(node, data.horizontalOffset, data.verticalOffset);
+}
+}
+function delayMenu_HoverStatic(item)
+{
+return (function()
+{
+overrideMenu_HoverStatic(item);
+});
+}
+var zz2_GlobalNav_Data = new Object();
+zz2_GlobalNav_Data.disappearAfter = 500;
+zz2_GlobalNav_Data.horizontalOffset = 0;
+zz2_GlobalNav_Data.verticalOffset = -8;
+zz2_GlobalNav_Data.hoverClass = 'zz2_GlobalNav_13 topNavFlyOutsHover';
+zz2_GlobalNav_Data.hoverHyperLinkClass = 'zz2_GlobalNav_12 topNavFlyOutsHover';
+zz2_GlobalNav_Data.staticHoverClass = 'zz2_GlobalNav_11 topNavHover';
+zz2_GlobalNav_Data.staticHoverHyperLinkClass = 'zz2_GlobalNav_10 topNavHover';
+var zz3_CurrentNav_Data = new Object();
+zz3_CurrentNav_Data.disappearAfter = 500;
+zz3_CurrentNav_Data.horizontalOffset = 0;
+zz3_CurrentNav_Data.verticalOffset = 0;
+zz3_CurrentNav_Data.hoverClass = 'zz3_CurrentNav_17 leftNavFlyOutsHover';
+zz3_CurrentNav_Data.hoverHyperLinkClass = 'zz3_CurrentNav_16 leftNavFlyOutsHover';
+zz3_CurrentNav_Data.staticHoverClass = 'zz3_CurrentNav_15 leftNavHover';
+zz3_CurrentNav_Data.staticHoverHyperLinkClass = 'zz3_CurrentNav_14 leftNavHover';
+var ctl00_NavigationMenu_Data = new Object();
+ctl00_NavigationMenu_Data.disappearAfter = 500;
+ctl00_NavigationMenu_Data.horizontalOffset = 0;
+ctl00_NavigationMenu_Data.verticalOffset = 0;
+ctl00_NavigationMenu_Data.staticHoverClass = 'ctl00_NavigationMenu_6 bottomNavHover';
+ctl00_NavigationMenu_Data.staticHoverHyperLinkClass = 'ctl00_NavigationMenu_5 bottomNavHover';
+//]]>
+</script>
+<script type="text/javascript" language="javascript" src="./SIMEE - Daily_files/core.js.pobrane"></script>
+<script type="text/javascript" language="javascript" src="./SIMEE - Daily_files/search.js.pobrane"></script>
+</form>
+    <!-- analytics all -->
+
+    <script type="text/javascript">
+        if (window.location.href.indexOf('mercado.ren.pt') > -1) {
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-23082866-1']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        }
+
+        $(".breadcrumb span span:lt(4)").remove();
+
+        $(function() {
+
+            $(".imgEN")
+.mouseover(function() {
+    var src = $(this).attr("src").replace("enLBlue", "enDBlue");
+
+    $(this).attr("src", src);
+})
+.mouseout(function() {
+    var src = $(this).attr("src").replace("enDBlue", "enLBlue");
+    $(this).attr("src", src);
+});
+        });
+
+        $(function() {
+            $(".imgPT")
+.mouseover(function() {
+    var src = $(this).attr("src").replace("ptGray", "ptDBlue");
+    $(this).attr("src", src);
+})
+.mouseout(function() {
+    var src = $(this).attr("src").replace("ptDBlue", "ptGray");
+    $(this).attr("src", src);
+});
+        });
+    </script>
+
+
+
+<script src="./SIMEE - Daily_files/AgentEmbed.aspx"></script></body></html>
